@@ -1,2 +1,2 @@
 # Billy
-Python, big-data, Machine learning.
+Python, big-data, Machine learning, Math.
